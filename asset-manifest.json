@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/xAzkall/monster-rolodex-react-complete-course/static/css/main.46b9e4d3.css",
-    "main.js": "/xAzkall/monster-rolodex-react-complete-course/static/js/main.38494952.js",
-    "static/js/787.a4f6a383.chunk.js": "/xAzkall/monster-rolodex-react-complete-course/static/js/787.a4f6a383.chunk.js",
-    "static/media/logo.svg": "/xAzkall/monster-rolodex-react-complete-course/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/xAzkall/monster-rolodex-react-complete-course/index.html",
-    "main.46b9e4d3.css.map": "/xAzkall/monster-rolodex-react-complete-course/static/css/main.46b9e4d3.css.map",
-    "main.38494952.js.map": "/xAzkall/monster-rolodex-react-complete-course/static/js/main.38494952.js.map",
-    "787.a4f6a383.chunk.js.map": "/xAzkall/monster-rolodex-react-complete-course/static/js/787.a4f6a383.chunk.js.map"
+    "main.css": "/monster-rolodex-react-complete-course/static/css/main.46b9e4d3.css",
+    "main.js": "/monster-rolodex-react-complete-course/static/js/main.e1c4726f.js",
+    "static/js/787.a4f6a383.chunk.js": "/monster-rolodex-react-complete-course/static/js/787.a4f6a383.chunk.js",
+    "static/media/logo.svg": "/monster-rolodex-react-complete-course/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/monster-rolodex-react-complete-course/index.html",
+    "main.46b9e4d3.css.map": "/monster-rolodex-react-complete-course/static/css/main.46b9e4d3.css.map",
+    "main.e1c4726f.js.map": "/monster-rolodex-react-complete-course/static/js/main.e1c4726f.js.map",
+    "787.a4f6a383.chunk.js.map": "/monster-rolodex-react-complete-course/static/js/787.a4f6a383.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.46b9e4d3.css",
-    "static/js/main.38494952.js"
+    "static/js/main.e1c4726f.js"
   ]
 }
